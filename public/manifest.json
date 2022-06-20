@@ -40,8 +40,8 @@
     "short_name": "Budget",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "./index.html",
+    "start_url": "./server.js",
     "description": "An app that allows you to track your budget.",
-    "background_color": "#01579b",
+    "background_color": "#dddddd",
     "theme_color": "#ffffff"
   }
